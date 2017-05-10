@@ -1,3 +1,10 @@
 /*
 custom css van ties
 */
+body {
+  background-color: rgb(238, 238, 238);
+}
+
+div.RoMain {
+  text-align: center;
+}
