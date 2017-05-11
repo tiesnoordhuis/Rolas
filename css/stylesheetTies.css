@@ -8,3 +8,33 @@ body {
 div.RoMain {
   text-align: center;
 }
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.navbar-form input, .form-inline input {
+	width:auto;
+}
+
+header {
+	height:280px;
+    background-color:#eee;
+}
+
+#nav.affix {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index:10;
+}
+
+.mainText {
+  text-align: center;
+}
