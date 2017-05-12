@@ -28,7 +28,7 @@ div.RoMain {
 }
 
 header {
-	height:280px;
+	height:240px;
     background-color:#eee;
 }
 
@@ -48,4 +48,12 @@ header {
   border-color: #eee;
   padding-left: 0px;
   padding-right: 0px;
+}
+
+.masthead {
+  margin-top: 20px;
+}
+
+.text-left {
+  text-align: left;
 }
